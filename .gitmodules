@@ -1,0 +1,3 @@
+[submodule "deps/geoip2"]
+	path = deps/geoip2
+	url = https://github.com/hnakamur/lua-resty-maxminddb
